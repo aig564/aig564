@@ -4,7 +4,7 @@ I'm a data and performance analyst focused on turning complex data into reliable
 
 I use **R and Excel** to automate data workflows, analyze trends, measure system performance, and explore future scenarios through modeling.
 
-I'm especially interested in data analytics, predictive analysis, and building repeatable, data-driven solutions.
+I'm interested in data analytics, predictive analysis, and building repeatable, data-driven solutions.
 
 **Connect with me:**
 - [LinkedIn](https://[www.linkedin.com/in/alfonzo-galvan-**332528157**](https://www.linkedin.com/in/alfonzo-galvan-**332528157**))
